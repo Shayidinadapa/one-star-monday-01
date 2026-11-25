@@ -1,0 +1,1 @@
+{"description":"A one-star review of Monday, written as if Monday were a restaurant — a make.fun bounty entry.","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"one-star-monday-01","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
